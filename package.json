@@ -40,7 +40,6 @@
       "last 1 safari version"
     ]
   },
-  "hompage": "https://angrylobster.github.io/cra-test",
   "devDependencies": {
     "serve": "^13.0.2"
   }
